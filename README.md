@@ -15,3 +15,5 @@ function getParametersForUnsplash({width, height, quality, format}) {
 }
 ```
 ### Minify JavaScript 최적화 
+- 주석, 공백 제거  
+
